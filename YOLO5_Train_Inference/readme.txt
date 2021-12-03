@@ -5,3 +5,5 @@
 
 5. 2 версии ноутбуков - с обучением на 2 класса и на 4, будет дополнено ссылкой на веса обоих моделей
 
+6. Ссылка на директорию с весами моделей, best_2.pt и best_4.pt соответственно
+https://drive.google.com/drive/folders/1GngMurVoAZ-4tjBJWCziYvHtdw25lfC7?usp=sharing
