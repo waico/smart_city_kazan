@@ -11,4 +11,4 @@ Implementation of functionality to improve the quality of life of the citizens o
   - пайплайн извлечение ширины и долготы по адресу
 - [parser](./parser )  folder - автоматические сохранение картинок по яндексовому запросу, для обогащения датасета.  
 - [stream_video](stream_video) folder - интеграция стриминг видео 
-- [YOLO5_Train_Inference](yolo5x_train) folder - код для обучения и инференса моделей, также содержит директорию weights с весами модели
+- [YOLO5_Train_Inference](yolo5x_train) folder - ноутбуки для обучения и инференса моделей, также содержит директорию weights с весами модели
