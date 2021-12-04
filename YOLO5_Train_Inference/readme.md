@@ -15,3 +15,4 @@ https://drive.google.com/drive/folders/1GngMurVoAZ-4tjBJWCziYvHtdw25lfC7?usp=sha
 ![tire_24-11-2021_10-15-04_am](https://user-images.githubusercontent.com/28774720/144696137-401c2df7-6e39-4355-914c-54577a4d3f24.jpg)
 ![fire_ (118)](https://user-images.githubusercontent.com/28774720/144696138-7ecc3cd1-9c4e-43be-b827-3a5886f7b5c8.jpg)
 ![fire_ (98)](https://user-images.githubusercontent.com/28774720/144696192-ae444cc6-f165-4b9f-a165-cb75b9c9e575.jpg)
+![fire_2](https://user-images.githubusercontent.com/28774720/144696350-142a4a37-63ef-4a45-bafc-519c854ef2c2.png)
